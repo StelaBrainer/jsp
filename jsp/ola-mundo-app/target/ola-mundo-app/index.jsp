@@ -6,8 +6,11 @@
     <title>Meu primeiro JSP</title>
 
 </head>
+
 <body>
-    
+
+    <!-- Comentario em JSP!-->
+
     <%
 
     String mensagem = "Olá Mundo";
@@ -17,4 +20,5 @@
 
 
 </body>
+
 </html>
